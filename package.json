@@ -1,0 +1,21 @@
+{
+  "name": "knight-travails",
+  "version": "1.0.0",
+  "description": "A knight in chess can move to any square on the standard 8x8 chess board from any other square on the board, given enough turns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kndrik/knight-travails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kndrik/knight-travails/issues"
+  },
+  "homepage": "https://github.com/Kndrik/knight-travails#readme",
+  "type": "module"
+}
